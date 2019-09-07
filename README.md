@@ -31,6 +31,8 @@ Next, in main3.py, I have created several new coordinates to represent each of t
 
 Open main4.py. You will now be drawing many faces in the window. Editing lines 20 through 24, draw a grid of overlapping faces. Now, play with the values on lines 16 and 18. What happens when you adjust those numbers? Save your changes.
 
+What happens is that it affects where the smiles are placed on the window, like how many there are across the board, if there are spaces between them and where they start on the window because you could start these series of smiles outside the window and only see a portion of them on the window.
+
 When you have completed the exercise, commit your changes and push them back to GitHub. Turn in the URL of your repository on canvas.
 
 *Extra credit:* 
